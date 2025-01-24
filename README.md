@@ -113,5 +113,5 @@ En `pom.xml`, añadir:
 
 ## Capturas de Pantalla
 
-- Se encuentran todas en la carpeta de 
+- Se encuentran todas en la carpeta de imagenes
 
